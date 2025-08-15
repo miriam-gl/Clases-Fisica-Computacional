@@ -1,2 +1,2 @@
 # Clases-Fisica-Computacional
-Aquí guardare mis tareas y apuntes de mi clase de Fisica Computacional
+Aquí se encuentran mis tareas y apuntes de dicha clase
